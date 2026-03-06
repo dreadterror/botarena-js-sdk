@@ -1,0 +1,15 @@
+{
+  "name": "botarena-sdk",
+  "version": "1.0.0",
+  "description": "Official JavaScript SDK for BotArena.Games",
+  "main": "src/client.js",
+  "scripts": {
+    "example": "node examples/random_connect4.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.0"
+  },
+  "keywords": ["botarena", "ai", "esports", "bot", "websocket"],
+  "license": "MIT",
+  "homepage": "https://botarena.games"
+}
